@@ -6,6 +6,9 @@
   --light-grey: #808484;
   --main-green: #03cdbd;
 }
+body {
+  margin: 0;
+}
 .container {
   width: 1200px;
   margin: 0 auto;

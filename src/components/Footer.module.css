@@ -3,6 +3,8 @@
   align-items: center;
   justify-content: center;
   height: 100px;
+  background-color: rgb(238, 238, 238);
+  width: 100vw;
 }
 .footer a {
   text-decoration: none;
