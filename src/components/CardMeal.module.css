@@ -105,3 +105,28 @@
     display: flex;
   }
 }
+@media (max-width: 375.98px) {
+  .card_meal {
+    height: 40vw;
+  }
+  .col_2 {
+    width: 40vw;
+  }
+  .line_1 {
+    font-size: 12px;
+    margin-top: 0;
+  }
+
+  .line_2 {
+    line-height: 12px;
+    overflow: hidden;
+    height: 22px;
+    color: var(--light-grey);
+    font-size: 10px;
+  }
+  .line_3 {
+    color: var(--light-grey);
+    font-size: 12px;
+    display: flex;
+  }
+}
