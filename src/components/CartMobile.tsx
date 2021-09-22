@@ -44,7 +44,7 @@ const CartMobile = () => {
                 <div className={styles.col_1}>
                   <span className={styles.minus}>
                     <MinusCircle
-                      size={20}
+                      size={25}
                       onClick={() => {
                         dispatch({
                           type: "removeMeal",
@@ -60,7 +60,7 @@ const CartMobile = () => {
                   <span>{elem.count}</span>
                   <span className={styles.plus}>
                     <PlusCircle
-                      size={20}
+                      size={25}
                       onClick={() => {
                         dispatch({
                           type: "addMeal",
