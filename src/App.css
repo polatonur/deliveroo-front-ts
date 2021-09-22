@@ -1,0 +1,12 @@
+/* GLOBAL RULES */
+
+:root {
+  --primary-black: #2e3333;
+  --secondary-black: #868a8a;
+  --light-grey: #808484;
+  --main-green: #03cdbd;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}

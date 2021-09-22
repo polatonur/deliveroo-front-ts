@@ -1,0 +1,16 @@
+.header_main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 59px;
+  border-bottom: 1px solid rgb(216, 211, 211);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+header img {
+  height: 42px;
+  width: 154px;
+}

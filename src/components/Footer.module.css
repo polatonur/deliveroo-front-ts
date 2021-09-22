@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+.footer a {
+  text-decoration: none;
+  font-weight: bolder;
+  color: black;
+}
+@media (max-width: 767.98px) {
+  .footer {
+    height: 70px;
+  }
+}

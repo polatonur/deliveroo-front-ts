@@ -1,0 +1,35 @@
+.menu {
+  background-color: #f2f5f5;
+  padding-top: 30px;
+}
+/* .menu_list {
+} */
+
+.menu main {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* @media (max-width: 575.98px) {
+}
+
+@media (max-width: 767.98px) {
+} */
+
+@media (max-width: 1280px) {
+  .menu {
+    max-width: 100vw;
+    padding: 30px 20px;
+  }
+  .menu main {
+    width: 100%;
+  }
+  .menu_list {
+    width: calc(100vw - 400px);
+  }
+}
+@media (max-width: 991.98px) {
+  .menu_list {
+    width: 100%;
+  }
+}
