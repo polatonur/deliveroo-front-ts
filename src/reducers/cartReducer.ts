@@ -21,7 +21,6 @@ const cartReducer = (state: CartMeals = { meals: [] }, action: Action) => {
   const stateToUpdate = { ...state, meals: [...state.meals] };
   const meals = stateToUpdate.meals;
   if (action.type === "addMeal") {
-    // console.log(action);
     let found = false;
     meals.forEach((meal, index) => {
       if (meal.name === action.meal.name) {
