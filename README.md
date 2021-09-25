@@ -3,7 +3,7 @@
 <p align="center">
     <img src="src/assets/images/react.svg" alt="Logo" width="80" height="80"> +
     <img src="src/assets/images/redux.svg" alt="Logo" width="80" height="80"> +
-    <img src="src/assets/images/typescript.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/polatonur/readme_pics/blob/master/Typescript.svg" alt="Logo" width="80" height="80">
 
   <h3 align="center">A Simple Deliveroo-like React-Redux Shopping Carte App</h3>
 
