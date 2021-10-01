@@ -32,7 +32,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#installation">Usage</a></li>
+        <li><a href="#Usage">Usage</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
@@ -65,13 +65,15 @@ In this app i used redux (most popular state management library) to understand w
 
 Download App and install packages
 
+###Installation
+
 - yarn
 
   ```sh
   yarn
   ```
 
-## Usage#
+###Usage
 
 - npm
   ```sh
