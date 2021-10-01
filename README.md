@@ -65,7 +65,7 @@ In this app i used redux (most popular state management library) to understand w
 
 Download App and install packages
 
-###Installation
+### Installation
 
 - yarn
 
@@ -73,7 +73,7 @@ Download App and install packages
   yarn
   ```
 
-###Usage
+### Usage
 
 - npm
   ```sh
