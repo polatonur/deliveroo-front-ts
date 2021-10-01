@@ -46,7 +46,7 @@
 ![alt text](https://github.com/polatonur/readme_pics/blob/master/cart_deliveroo.png?raw=true)
 
 React global state management one of the most impportant things when you are creating big apps.
-In this app i used redux (most popular state management library) to understand why global state management is important and how can I use redux,
+In this app i used redux (most popular state management library) to understand why global state management is important and how to use redux,
 
 - You can add new items to your shopping cart or remove sone articles from shopping cart.
 - The app is fully responsive.
