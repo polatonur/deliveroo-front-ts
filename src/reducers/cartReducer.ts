@@ -24,14 +24,7 @@ const cartReducer = (state: CartMeals = { meals: [] }, action: Action) => {
     let found = false;
     meals.forEach((meal, index) => {
       if (meal.name === action.meal.name) {
-        // console.log("found");
         found = true;
-        // console.log(
-        //   "pricesss===>",
-        //   meals[index].priceTotal,
-        //   Number(action.meal.priceUnit)
-        // );
-
         meals[index] = {
           count: meals[index].count + 1,
           name: action.meal.name,
