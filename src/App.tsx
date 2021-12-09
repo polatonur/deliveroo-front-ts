@@ -43,7 +43,7 @@ function App() {
   const [data, setData] = useState<Data | null>(null);
 
   useEffect(() => {
-    fetch("https://lereacteur-deliveroo-api.herokuapp.com")
+    fetch("https://deliveroo-back.api.dotonur.dev")
       .then((res) => res.json())
       .then((data: Data) => setData(data))
       .catch((err) => console.log(err));
